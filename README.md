@@ -18,4 +18,7 @@ cd marble-racing-bot
 . venv/bin/activate  
 python bot.py  
 
+# Shutting off bot (in case you need to restart)
+Ctrl + c
+
 You can !test the bot is active
