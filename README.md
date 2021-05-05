@@ -7,7 +7,8 @@ virtualenv -p python3 venv
 . venv/bin/activate  
 pip install pandas  
 pip install twitchio  
-pip install requests  
+pip install requests
+pip install pyyaml
 
 # Config.yaml
 Make sure you edit the config.yaml
