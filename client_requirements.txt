@@ -1,0 +1,29 @@
+
+And the design of the leaderboard wasn't anything special, so I don't mind starting fresh.
+
+
+Commands needed
+-!start
+---needs to connect to a timer
+-!color !blue !green !red !black !yellow
+
+Just a few things I should add too:
+  Ideally, mod would start the round with !start.
+  1 minute 30 second timer would begin and show up on screen, players can guess which marble will win by typing
+  !blue !green !red etc.
+  (The way he did it viewers need to type !color blue, which is fine,
+  but if it’s possible to do by just typing !blue that would be much better.)
+  Next, when the timer is done, it states that voting is closed and we begin the race IRL.
+  When the race is over, mod types !win blue and whoever voted for that color gets a point.
+
+
+Players can view their points by typing !points, and a leaderboard of the top 5/10 players with the most points is always on screen.
+
+The bot currently requires us to refresh the browser source after every race, and it didn’t even work yesterday.
+
+One thing we wanted but the programmer said we couldn’t do, was to allow players to wager points they’ve accumulated.
+
+Another thing he couldn’t do was give mods the ability to add or subtract points from players manually.
+
+All of those things are the ideal situation. If some of it is not possible, no worries.
+Just figured I should tell you everything we're looking for just in case. Again, I really appreciate you!
