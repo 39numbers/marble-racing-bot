@@ -2,12 +2,12 @@
 A chatbot to tally marble races and capture user votes
 
 # setup (very first time only)
-cd marble-racing-bot
-virtualenv -p python3 venv
-. venv/bin/activate
-pip install pandas
-pip install twitchio
-pip install requests
+cd marble-racing-bot  
+virtualenv -p python3 venv  
+. venv/bin/activate  
+pip install pandas  
+pip install twitchio  
+pip install requests  
 
 # Config.yaml
 Make sure you edit the config.yaml
