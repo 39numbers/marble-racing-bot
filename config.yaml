@@ -1,0 +1,5 @@
+token: your-twitch-token
+client_id: your-client-id
+client_secret: your-client-secret
+client_nick: name-of-your-bot
+initial_channel: name-of-your-channel
