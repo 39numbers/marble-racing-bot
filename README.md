@@ -14,8 +14,8 @@ pip install pyyaml
 Make sure you edit the config.yaml
 
 # Running the code (Do this every time before stream)
-cd marble-racing-bot
-. venv/bin/activate
-python bot.py
+cd marble-racing-bot  
+. venv/bin/activate  
+python bot.py  
 
 You can !test the bot is active
